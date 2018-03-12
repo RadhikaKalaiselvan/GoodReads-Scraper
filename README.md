@@ -1,6 +1,5 @@
 # GoodReads-Scraper
-The script receives username and password when executed from the command line, authenticates to http://www.Goodreads.com      
-
+The script receives username and password when executed from the command line, authenticates to http://www.Goodreads.com
 website. Then it finds, retrieves and stores in a file the top 10 most popular quotes from Mark Twain.
 
 How to run?
